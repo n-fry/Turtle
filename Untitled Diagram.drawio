@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T14:57:18.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JjpJRfrGn3w-ky_MANHT" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T16:27:12.857Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ksxZylc73rXyvVCCTGX0" version="21.3.6" type="github">
   <diagram name="Page-1" id="Nq7KZAlULEjeWLZhRNwE">
     <mxGraphModel dx="1908" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,10 +215,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peh02bBTJSdRwe5Ge1cf-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="400" height="960" as="geometry" />
+          <mxGeometry x="440" y="40" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="peh02bBTJSdRwe5Ge1cf-65" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="60" width="380" height="920" as="geometry" />
+        <mxCell id="peh02bBTJSdRwe5Ge1cf-65" value="read list 1&lt;br&gt;read list 2&lt;br&gt;merge both lists&lt;br&gt;read whole list&lt;br&gt;order birth years&lt;br&gt;place big numbers first small number last in order&lt;br&gt;display details" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="55" width="380" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
