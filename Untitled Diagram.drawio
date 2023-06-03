@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T11:48:44.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.3.6" etag="xVRwmY5Qc38PCtXZMh9D" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T12:14:41.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ja0duZ614qwDGnWTwK3k" version="21.3.6" type="github">
   <diagram name="Page-1" id="uFa_3cZ_49jeVVC7Coz5">
-    <mxGraphModel>
+    <mxGraphModel dx="465" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-1" target="jexLfOKI2UjGO1HEDs_a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-2" target="jexLfOKI2UjGO1HEDs_a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-4" target="jexLfOKI2UjGO1HEDs_a-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-6" target="jexLfOKI2UjGO1HEDs_a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-8" target="jexLfOKI2UjGO1HEDs_a-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="270" as="sourcePoint" />
+            <mxPoint x="270" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-12" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-13" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-14" value="Read name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="105" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-15" value="Read 10 scores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="175" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-16" value="Sort array of scores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="245" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-17" value="Print first 6 scores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-21" value="Read name&lt;br&gt;Declare an array of size 10, scores[10]&lt;br&gt;for i in the range from 0-9&lt;br&gt;read scores[i]&lt;br&gt;sort the scores[] array in descending order&lt;br&gt;print first 6 scores of scores[] array&lt;br&gt;end" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="30" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jexLfOKI2UjGO1HEDs_a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jexLfOKI2UjGO1HEDs_a-21" target="jexLfOKI2UjGO1HEDs_a-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
