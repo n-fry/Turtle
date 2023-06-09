@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T14:12:08.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="M0bZ3U8St5ixN-k4HEIe" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T14:49:53.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="elR8xcUoL_jMYA1PO2pX" version="21.3.8" type="github">
   <diagram name="Page-1" id="MgAoKnOKzoxOZ9j7WaKY">
-    <mxGraphModel dx="507" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="534" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,73 +61,82 @@
           <mxGeometry x="110" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="42.5" width="160" height="37.5" as="geometry" />
+          <mxGeometry x="20" y="500" width="160" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="567.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-21" target="nP_C0W4jI41Hq3QPvPZp-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-21" value="calculateAge(month, year)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="47.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="40" y="505" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-23" target="nP_C0W4jI41Hq3QPvPZp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-23" value="find curretMonth and currentYear" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="567.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="160" height="40" as="geometry" />
+          <mxGeometry x="20" y="617.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-26" target="nP_C0W4jI41Hq3QPvPZp-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-26" value="Calculate year difference ageYears = currentYear - year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="165" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="622.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-27" target="nP_C0W4jI41Hq3QPvPZp-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="160" height="70" as="geometry" />
+          <mxGeometry x="20" y="697.5" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-29" target="nP_C0W4jI41Hq3QPvPZp-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-29" value="If currentMonth &amp;lt; month" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="130" height="30" as="geometry" />
+          <mxGeometry x="40" y="717.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="697.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="757.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="817.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-34" target="nP_C0W4jI41Hq3QPvPZp-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-34" value="Calculate ageMonths = currentMonth - month" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="160" height="30" as="geometry" />
+          <mxGeometry x="20" y="817.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="877.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-37" value="return ageInMonths" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="425" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="882.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-38" target="nP_C0W4jI41Hq3QPvPZp-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="300" width="190" height="60" as="geometry" />
+          <mxGeometry x="270" y="757.5" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nP_C0W4jI41Hq3QPvPZp-40" value="Calculate ageMonths = 12 - (month - currentMonth)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="315" width="180" height="30" as="geometry" />
+          <mxGeometry x="270" y="772.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="320" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-47" value="function main()&lt;br&gt;begin&lt;br&gt;&lt;br&gt;read user birth month and year&lt;br&gt;age in months&amp;lt;-calculateage(month, year)&lt;br&gt;print years(age in months / 12)&lt;br&gt;print months (age in months % 12)&lt;br&gt;&lt;br&gt;end&lt;br&gt;&lt;br&gt;Function calculateage(month, year)&lt;br&gt;Begin&lt;br&gt;currentmonth&amp;lt;- get current month&lt;br&gt;currentyear&amp;lt;- get current year&lt;br&gt;ageyears &amp;lt;- (currentyear - year)&lt;br&gt;if currentmonth &amp;lt; month Then&lt;br&gt;agemonths &amp;lt;- (12 -(month - currentmonth))&lt;br&gt;ageyears &amp;lt;- ageyear - 1&lt;br&gt;else&lt;br&gt;agemonths&amp;lt;-(currentmonth -month)&lt;br&gt;&lt;br&gt;end if&lt;br&gt;&lt;br&gt;return age in months((ageyears*12)= agemonths)&lt;br&gt;&lt;br&gt;end" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="270" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-46" target="nP_C0W4jI41Hq3QPvPZp-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
