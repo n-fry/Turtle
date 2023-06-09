@@ -1,9 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T13:48:11.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.8" etag="ZYGo6SIpfd3Xfo2nl4bl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T14:12:08.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="M0bZ3U8St5ixN-k4HEIe" version="21.3.8" type="github">
   <diagram name="Page-1" id="MgAoKnOKzoxOZ9j7WaKY">
-    <mxGraphModel>
+    <mxGraphModel dx="507" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="97.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="37.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-2" value="start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="42.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="127.5" as="sourcePoint" />
+            <mxPoint x="135" y="147.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-5" value="read birth month and year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-8" target="nP_C0W4jI41Hq3QPvPZp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-8" value="ageInMonths = calculateAge(month, year)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-12" target="nP_C0W4jI41Hq3QPvPZp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-12" value="Calculate age in-terms of years and months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-15" target="nP_C0W4jI41Hq3QPvPZp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-15" value="Print Age in Years and months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-18" value="Stop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="42.5" width="160" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-21" target="nP_C0W4jI41Hq3QPvPZp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-21" value="calculateAge(month, year)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="47.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-23" target="nP_C0W4jI41Hq3QPvPZp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-23" value="find curretMonth and currentYear" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-26" target="nP_C0W4jI41Hq3QPvPZp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-26" value="Calculate year difference ageYears = currentYear - year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="165" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-27" target="nP_C0W4jI41Hq3QPvPZp-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-29" target="nP_C0W4jI41Hq3QPvPZp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-29" value="If currentMonth &amp;lt; month" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-30" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-31" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-34" target="nP_C0W4jI41Hq3QPvPZp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-34" value="Calculate ageMonths = currentMonth - month" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-37" value="return ageInMonths" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nP_C0W4jI41Hq3QPvPZp-38" target="nP_C0W4jI41Hq3QPvPZp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nP_C0W4jI41Hq3QPvPZp-40" value="Calculate ageMonths = 12 - (month - currentMonth)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="315" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
